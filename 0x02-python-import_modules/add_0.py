@@ -1,4 +1,4 @@
-dd(a, b):
+def(a, b):
     """My addition function
     Args:
         a: first integer
