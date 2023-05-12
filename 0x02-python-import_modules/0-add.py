@@ -1,5 +1,6 @@
 #!/usr/bin/python3
-import add_0
-a=1
-b=2
-print(f"{}+{}={}".format(a,b,add_0.add(a,b)))
+if _name_ == "_main_"
+from add_o import add
+a = 1
+b = 2
+print(f"{}+{}={}".format(a,b,add(a,b)))
